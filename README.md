@@ -1,0 +1,1 @@
+# generator-basic-site-base
