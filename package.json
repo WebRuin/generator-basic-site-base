@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WebRuin/generator-basic-site-base.git"
