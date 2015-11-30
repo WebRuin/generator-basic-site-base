@@ -1,0 +1,27 @@
+{
+  "name": "generator-basic-site-base",
+  "version": "0.1.0",
+  "description": "Basic gulp based site generator using many great tools and Google Material Design",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebRuin/generator-basic-site-base.git"
+  },
+  "keywords": [
+    "npm",
+    "gulp",
+    "sass",
+    "material",
+    "responsive",
+    "bower"
+  ],
+  "author": "Partners In Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebRuin/generator-basic-site-base/issues"
+  },
+  "homepage": "https://github.com/WebRuin/generator-basic-site-base#readme"
+}
