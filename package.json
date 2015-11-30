@@ -10,10 +10,6 @@
     "app",
     "router"
   ],
-  "keywords": ["yeoman-generator"],
-  "dependencies": {
-    "yeoman-generator": "^0.20.2"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WebRuin/generator-basic-site-base.git"
@@ -24,8 +20,12 @@
     "sass",
     "material",
     "responsive",
-    "bower"
+    "bower",
+    "yeoman-generator"
   ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  },
   "author": "Partners In Code",
   "license": "ISC",
   "bugs": {
